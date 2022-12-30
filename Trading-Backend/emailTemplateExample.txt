@@ -1,0 +1,49 @@
+Verification Code = {
+    {
+    "mailTitle": "Thanks : The Trade King",
+    "mailSubject": "The Trade King",
+    "mailBody": "<p>Hello,${userName}</p><p>Thanks for showing interest in us,</p><p>We are giving this this and this service,</p><p>Please do a quick KYC process and enjou are services</p><span>Thanks & Regards,</span><br/><span>The Trade-King</span>",
+    "createdBy": "6398445a556bd45be0dcadf7"
+}
+}
+
+FirstStep = {
+    {
+    "mailTitle": "Thanks : The Trade King",
+    "mailSubject": "The Trade King",
+    "mailBody": "<p>Hello,${userName}</p>
+    		<p>Thanks for showing interest in us,</p>
+    		<p>We are giving this this and this service,</p>
+    		<p>Please do a quick KYC process and enjou are services</p>
+    		<span>Thanks & Regards,</span><br/>
+    		<span>The Trade-King</span>",
+    "createdBy": "6398445a556bd45be0dcadf7"
+}
+}
+
+SecondStep = {
+    {
+        "mailTitle": "KYC : The Trade King",
+    "mailSubject": "KYC",
+    "mailBody": "<p>Dear,${userName}</p><p>Your KYC is under process out emp verify it,</p><p>We'll, send you a mail with your username and password</p><span>Thanks & Regards,</span><br/><span>The Trade-King</span>",
+    "createdBy": "6398445a556bd45be0dcadf7"
+    }
+}
+
+forgetPassword = {
+    {
+        "mailTitle": "Forget-Password : The Trade King",
+    "mailSubject": "Forget-Password",
+    "mailBody": "<p>Dear,${userName}</p><p>Please Clicke here to change your password.</p><p><b>Note:-This is valid till 15min</b></p><span>Thanks & Regards,</span><br/><span>The Trade-King</span>",
+    "createdBy": "6398445a556bd45be0dcadf7"
+    }
+}
+
+ApproveUser = {
+    {
+        "mailTitle": "Approved : The Trade King",
+    "mailSubject": "Confrimation",
+    "mailBody": "<p>Dear,${userName}</p><span>Your account has been created.</span><p>Please find your defualt credentials.do not share with anyone</p><span><b>UserName:-</b>$userName</span><span><b>Password:-</b>$password</span><span>Thanks & Regards,</span><br/><span>The Trade-King</span>",
+    "createdBy": "6398445a556bd45be0dcadf7"
+    }
+}
